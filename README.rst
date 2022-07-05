@@ -1,7 +1,7 @@
 ..
     Make user to apply any changes to this file to README_RAW.rst as well!
 
-.. image:: https://github.com/SurajMeena/todo-telegram-bot/blob/master/img/todogroup_bot.png
+.. image:: 'https://heroku.com/deploy?template=https://github.com/kannadamoviesrequestbot/todo-telegram-bot'
    :align: center
    :target: https://telegram.me/todogroup_bot
    :alt: todo-telegram-bot Logo
