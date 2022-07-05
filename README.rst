@@ -3,7 +3,7 @@
 
 .. image:: 'https://heroku.com/deploy?template=https://github.com/kannadamoviesrequestbot/todo-telegram-bot'
    :align: center
-   :target: https://telegram.me/todogroup_bot
+   :target: https://heroku.com/deploy?template=https://github.com/kannadamoviesrequestbot/todo-telegram-bot
    :alt: todo-telegram-bot Logo
 
 We have made you a bot you can't refuse
